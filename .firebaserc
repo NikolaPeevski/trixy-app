@@ -1,0 +1,15 @@
+{
+  "targets": {
+    "trixy-50705": {
+      "hosting": {
+        "app": [
+          "trixy-50705"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "trixy-app": "trixy-50705",
+    "default": "trixy-50705"
+  }
+}
